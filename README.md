@@ -22,3 +22,9 @@ A simple command-line script to edit the game attributes such as Agility,Strengt
 - [ ] Linux Support
 - [ ] OSX support
 - [ ] GUI
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
