@@ -1,7 +1,7 @@
 # Punch Club Save Editor
 A simple command-line script to edit the game attributes such as Agility,Strength,Stamina,Money and Skill Points.
 
-#### Requisites
+#### Requirements  ⚙
 *    Python 2.7
 *    PyCrypto 2.6.1
 
