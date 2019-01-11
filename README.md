@@ -8,7 +8,7 @@ A simple command-line script to edit the game attributes such as Agility,Strengt
 #### How to use ? 
 1. Clone the repository or download the **.zip** file
 
-2. Install [Python 2.7] (https://www.python.org/downloads/release/python-2715/)
+2. Install [Python 2.7](https://www.python.org/downloads/release/python-2715/)
 
 3. Install PyCrypto 2.6.1
     ```
